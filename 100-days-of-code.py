@@ -18,8 +18,9 @@
 # Write a program that reads user input and print it to the console.
 # Modify the program to read and print different data type inputs (integers, floating-point numbers, strings)
 
-name = str(input("Please enter your name: "))
-age = int(input("Please enter your age: "))
-weight = float(input("Please enter your weight: "))
+# name = str(input("Please enter your name: "))
+# age = int(input("Please enter your age: "))
+# weight = float(input("Please enter your weight: "))
 
-print(f"Hello, {name}. You are {age} years old, and you weigh {weight}.")
+# print(f"Hello, {name}. You are {age} years old, and you weigh {weight}.")
+# -------------------------------------------------------------------------------------------------------------
